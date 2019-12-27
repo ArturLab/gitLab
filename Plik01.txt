@@ -4,3 +4,4 @@ Uwagaaaa  zmiana3 - zmiana07c
 Zmiana04
 Zmiana05
 Dodano asystenta pomocy
+Uperoszczenie interfejsu graf.
