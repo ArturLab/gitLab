@@ -1,0 +1,26 @@
+[1mdiff --git a/Plik01.txt b/Plik01.txt[m
+[1mindex 98ad7bd..e136620 100644[m
+[1m--- a/Plik01.txt[m
+[1m+++ b/Plik01.txt[m
+[36m@@ -1,5 +1,5 @@[m
+ Zmiana1 - Zmiana06[m
+ Zmiana02 Zmiana 02a[m
+[31m-zmiana3[m
+[32m+[m[32mUwagaaaa  zmiana3 - zmiana07c[m
+ Zmiana04[m
+ Zmiana05[m
+\ No newline at end of file[m
+[1mdiff --git a/Plik02.txt b/Plik02.txt[m
+[1mindex e69de29..8aa4cfc 100644[m
+[1m--- a/Plik02.txt[m
+[1m+++ b/Plik02.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mZmian07a[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/Plik03.txt b/Plik03.txt[m
+[1mindex e69de29..db6a949 100644[m
+[1m--- a/Plik03.txt[m
+[1m+++ b/Plik03.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mZmian07b[m[41m [m
+\ No newline at end of file[m
