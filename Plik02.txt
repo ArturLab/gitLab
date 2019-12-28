@@ -2,3 +2,4 @@ Zmian07a
 Dodano asystenta pomocy
 Uperoszczenie interfejsu graf.
 Zmiana 1.1 Lab 8
+Zmiana 2.1 Laob 8
