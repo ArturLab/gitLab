@@ -5,4 +5,3 @@ Dodano asystenta pomocy
 Uperoszczenie interfejsu graf.
 EasierApp
 Zmiana 4 Lab 8
-Zmiana 5 Lab 8
