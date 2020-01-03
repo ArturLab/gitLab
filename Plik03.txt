@@ -6,3 +6,4 @@ Uperoszczenie interfejsu graf.
 EasierApp
 Zmiana 4 Lab 8
 Zmiana 1 lab 10
+Zmiana 2 lab 10
