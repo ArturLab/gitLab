@@ -8,3 +8,4 @@ Uperoszczenie interfejsu graf.
 Zmiana 1 Lab8
 Zmiana 2 Lab8
 Zmiana 13 lab 12
+Zmiana 14 Lab 12
