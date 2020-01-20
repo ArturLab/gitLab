@@ -7,3 +7,4 @@ Dodano asystenta pomocy
 Uperoszczenie interfejsu graf.
 Zmiana 1 Lab8
 Zmiana 2 Lab8
+Zmiana 13 lab 12
